@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructArray", "StructArray\StructArray.csproj", "{B206DC62-7992-42A8-9854-88C07DC8C4DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B206DC62-7992-42A8-9854-88C07DC8C4DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B206DC62-7992-42A8-9854-88C07DC8C4DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B206DC62-7992-42A8-9854-88C07DC8C4DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B206DC62-7992-42A8-9854-88C07DC8C4DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59A030B9-0113-4E96-BA3F-706B37191108}
+	EndGlobalSection
+EndGlobal
